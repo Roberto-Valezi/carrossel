@@ -19,7 +19,6 @@ body{
     opacity: 0;
     transition: 0.5s ease-out;
     display: flex;
-    /* font-size: 20px;  */
     align-items: center;
 } 
 
